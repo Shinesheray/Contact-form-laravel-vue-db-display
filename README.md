@@ -1,3 +1,42 @@
+# PHP Laravel and Vuejs contact form part 2 DB Table
+
+This Contact form is created to send information to the Database and display the contact detail information
+
+To use this applictation follow the steps below
+
+## How to Install
+
+* Save into a directory of your choice. CD to project folder using your commandline terminal. Now type ```npm install```. After it is done you should have the node_modules folder.
+ 
+## How to Clone/Download files:
+In order to get the full files from this repository simply follow the following steps:
+
+Figure 1.1 ![alt text](https://github.com/Shinesheray/readme-images/blob/main/Download_files.jpeg?raw=true)
+
+* If you do not have Git installed on your local machine you can simply click on the ‘code’ button and there will be an option to download Zip file as seen in the screenshot above. Download the folder and extract all files. Now all the files are on your local machine
+
+
+* If you do have Git installed you can click on the ‘code’ button as well and simply select to copy the HTTPS URL link as seen in figure 1.1 above. Now open the Git command  line and type in “got clone” and past the copied repo URL and press enter. The files are now downloaded/installed onto your local machine
+
+You can watch this youtube tutorial if you having any issue’s https://www.youtube.com/watch?v=CKcqniGu3tA&ab_channel=CodingForEverybody 
+
+Now that you have the project on your local machine and opend in vs code head over the terminal and run the following commands
+
+## Run the server
+Terminal 1 in this Terminal run the command ```npm artisan serve``` to get the PHP laravel server started.
+
+## Run the front end Vuejs app
+Terminal 2 run the command ```npm run watch``` to get Vuejs started.
+
+If you are using xampp, ensure that the Apache action and MySQL action buttons are started
+
+Now head over to your browsers Localhost:8000 or use terminal 1's url port link to use the contact form in your browser
+
+
+
+## The Laravel Frame work
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
